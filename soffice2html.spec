@@ -24,7 +24,7 @@ environment.
 %description -l pl
 Konwertuje dokumenty StarOffice/OpenOffice.org na HTML-a, u¿ywaj±c
 xsltproc do konwersji XML-a oraz converta z ImageMagicka do konwersji
-obrazków. Tworzy równie¿ spis tre¶li z odno¶nikami, obs³uguje tabele,
+obrazków. Tworzy równie¿ spis tre¶ci z odno¶nikami, obs³uguje tabele,
 style, [spans] i wiele innych elementów XML-a z plików procesora.
 U¿yteczny do konwersji dokumentów wsadowo, w³±czaj±c w to ¶rodowiska
 webowe oraz CGI.

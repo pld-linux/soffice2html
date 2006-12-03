@@ -3,7 +3,7 @@ Summary(pl):	Konwerter dokumentów StarOffice/OpenOffice.org do HTML-a
 Name:		soffice2html
 Version:	0.77
 Release:	1
-License:	unknown
+License:	GPL
 Group:		Applications/Text
 Source0:	http://hoopajoo.net/static/projects/%{name}-%{version}.tar.gz
 # Source0-md5:	dd5d3ed417db4c1fd9cc77c9ae4122aa

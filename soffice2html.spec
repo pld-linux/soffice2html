@@ -1,5 +1,5 @@
 Summary:	StarOffice/OpenOffice.org document to HTML converter
-Summary(pl):	Konwerter dokumentÛw StarOffice/OpenOffice.org do HTML-a
+Summary(pl.UTF-8):   Konwerter dokument√≥w StarOffice/OpenOffice.org do HTML-a
 Name:		soffice2html
 Version:	0.77
 Release:	1
@@ -21,12 +21,12 @@ spans, and many other XML elements from a writer file. Useful to
 convert documents in a batch manner, including in a web or CGI
 environment.
 
-%description -l pl
-Konwertuje dokumenty StarOffice/OpenOffice.org na HTML-a, uøywaj±c
+%description -l pl.UTF-8
+Konwertuje dokumenty StarOffice/OpenOffice.org na HTML-a, u≈ºywajƒÖc
 xsltproc do konwersji XML-a oraz converta z ImageMagicka do konwersji
-obrazkÛw. Tworzy rÛwnieø spis tre∂ci z odno∂nikami, obs≥uguje tabele,
-style, [spans] i wiele innych elementÛw XML-a z plikÛw procesora.
-Uøyteczny do konwersji dokumentÛw wsadowo, w≥±czaj±c w to ∂rodowiska
+obrazk√≥w. Tworzy r√≥wnie≈º spis tre≈õci z odno≈õnikami, obs≈Çuguje tabele,
+style, [spans] i wiele innych element√≥w XML-a z plik√≥w procesora.
+U≈ºyteczny do konwersji dokument√≥w wsadowo, w≈ÇƒÖczajƒÖc w to ≈õrodowiska
 WWW oraz CGI.
 
 %prep

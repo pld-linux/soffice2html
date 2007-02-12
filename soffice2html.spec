@@ -1,5 +1,5 @@
 Summary:	StarOffice/OpenOffice.org document to HTML converter
-Summary(pl.UTF-8):   Konwerter dokumentów StarOffice/OpenOffice.org do HTML-a
+Summary(pl.UTF-8):	Konwerter dokumentów StarOffice/OpenOffice.org do HTML-a
 Name:		soffice2html
 Version:	0.77
 Release:	1
